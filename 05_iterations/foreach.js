@@ -33,6 +33,7 @@ const coding = [
 ]
 
 coding.forEach( (item)=>{
-console.log(item.fileName)
-console.log(item.filelangaugeName)
+// console.log(item.fileName)
+// console.log(item.filelangaugeName)
 })
+
